@@ -7,4 +7,7 @@ metadata:
 
 environment:
  server: kafka
- owner: guests
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
