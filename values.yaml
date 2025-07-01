@@ -3,10 +3,9 @@ kind: Component
 metadata:
   name: Venkatreact
   annotations:
-    github.com/project-slug: venkatmandali/reactbasic
-
+    github.com/project-slug: venkatmandali/reactjs-basics
 environment:
- server: kafka
+  server: kafka
 spec:
   type: other
   lifecycle: unknown
